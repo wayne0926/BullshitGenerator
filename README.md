@@ -1,6 +1,6 @@
 # 文章生成器
 # BullshitGenerator
-## 🍴forked from https://github.com/suulnnka/BullshitGenerator
+## forked from https://github.com/suulnnka/BullshitGenerator
 原项目地址 https://github.com/menzi11/BullshitGenerator
 
 网页版地址 https://suulnnka.github.io/BullshitGenerator/index.html
